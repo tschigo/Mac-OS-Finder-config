@@ -1,5 +1,7 @@
 # Mac-OS-Finder-config
+A simple script for a better Finder in Mac OS X 10.8
 
+## License
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
